@@ -1,0 +1,6 @@
+[package]
+name = "unix_network_programming_v1_in_rust"
+version = "0.1.0"
+authors = ["natumn <natsume.pcuse75@gmail.com>"]
+
+[dependencies]
